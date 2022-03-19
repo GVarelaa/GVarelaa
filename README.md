@@ -12,3 +12,4 @@
 ## 💻 My programming skills
 - Haskell
 - C
+- Java
