@@ -12,4 +12,8 @@
 ## 💻 My programming skills
 - Haskell
 - C
+- C#
 - Java
+- Python
+- MATLAB
+- MySQL
