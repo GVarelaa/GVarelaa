@@ -28,7 +28,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=GVarelaa&style=for-the-badge)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvarelaa&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
